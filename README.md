@@ -1,9 +1,17 @@
 ### Hi 🙋🏻‍♂️ I'm Gastón
 #### UI Engineer 🎨 former classical pianist 🎹 & runner 🏃
 
-- 👨🏻‍💻 I work at [ClientCircle](https://www.clientcircle.com)
+- 👨🏻‍💻 I work at [ClientCircle](https://www.clientcircle.com) in 🇺🇸
 
-- 👾 Started coding when I was 9yo
+- 🏡 I'm from 🇺🇾 and raised 🇪🇸
+
+- 👾 Started coding when I was 9yo and contribute to [Apollo GraphQL](https://github.com/apollographql/apollo-client) and [GraphQL Gem](https://github.com/rmosolgo/graphql-ruby)
+
+- 💖 My fav languages as of 2022 are **TypeScript** & **Ruby**
+
+- 💞 My fav frameworks are **[SolidJS](https://github.com/solidjs/solid)**, **[NestJS](https://github.com/nestjs/nest)** & **React Native**
+
+- 💘 My oldest love is **Rails** 💎
 
 - 🌱 I’m currently learning about **Physics Engines, AI & ML**
 
@@ -13,11 +21,11 @@
 
 - 📝 I regularly write articles on [gooseup.me/gaston](https://gooseup.me/gaston)
 
-- 💬 Ask me about **UI Engineering 💅🏻 & Working Remote 🗺️** 
+- 💬 Ask me about **UI Engineering 💅🏻 & Working Remotely 🗺️** 
 
-- 📫 Reach me at **gaston@gastonmorixe.com**
+- 📫 You can reach me at **gaston@gastonmorixe.com**
 
-- 📜 About my experience [linkedin.com/in/gastonmorixe](https://linkedin.com/in/gastonmorixe)
+- 📜 Read about my experience [linkedin.com/in/gastonmorixe](https://linkedin.com/in/gastonmorixe)
 
 - ⚡ My Dream is to someday play **Rachmaninoff's Piano Concerto No. 3**
 
