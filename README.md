@@ -5,13 +5,13 @@
 
 - 🏡 I was born in 🇺🇾 and raised in 🇪🇸
 
-- 👾 Started coding when I was 9yo and contribute to [Apollo GraphQL](https://github.com/apollographql/apollo-client) and [GraphQL Gem](https://github.com/rmosolgo/graphql-ruby)
+- 👾 Started coding when I was 9yo. Occasional contributor of [Apollo GraphQL](https://github.com/apollographql/apollo-client), [GraphQL Gem](https://github.com/rmosolgo/graphql-ruby) and authored [RN Twilio Video WebRTC](https://github.com/blackuy/react-native-twilio-video-webrtc)
 
 - 💖 My fav languages as of 2022 are **TypeScript** & **Ruby**
 
 - 💞 My fav frameworks are **[SolidJS](https://github.com/solidjs/solid)**, **[NestJS](https://github.com/nestjs/nest)** & **React Native**
 
-- 💘 My oldest love is **Rails** 💎
+- ❤️ My first love was **Rails** 💎
 
 - 🌱 I’m currently learning about **Physics Engines, AI & ML**
 
