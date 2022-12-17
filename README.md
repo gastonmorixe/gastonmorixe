@@ -3,6 +3,8 @@
 
 - 👨🏻‍💻 I work at [ClientCircle](https://www.clientcircle.com)
 
+- 👨🏻‍💻 Started coding when I was 9yo
+
 - 🌱 I’m currently learning **Physics Engines, AI & ML**
 
 - 🔭 My side-project is [Goose](https://gooseup.me/gaston)
@@ -15,7 +17,7 @@
 
 - 📫 Reach me at **gaston@gastonmorixe.com**
 
-- 👨🏻‍💻 Know about my experience [linkedin.com/in/gastonmorixe](https://linkedin.com/in/gastonmorixe)
+- 📜 About my experience [linkedin.com/in/gastonmorixe](https://linkedin.com/in/gastonmorixe)
 
 - ⚡ My Dream is to someday play **Rachmaninoff's Piano Concerto No. 3**
 
