@@ -3,7 +3,7 @@
 
 - 👨🏻‍💻 I work at [ClientCircle](https://www.clientcircle.com)
 
-- 👨🏻‍💻 Started coding when I was 9yo
+- 👾 Started coding when I was 9yo
 
 - 🌱 I’m currently learning **Physics Engines, AI & ML**
 
