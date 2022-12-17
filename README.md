@@ -3,7 +3,7 @@
 
 - 👨🏻‍💻 I work at [ClientCircle](https://www.clientcircle.com) in 🇺🇸
 
-- 🏡 I'm from 🇺🇾 and raised 🇪🇸
+- 🏡 I was born in 🇺🇾 and raised in 🇪🇸
 
 - 👾 Started coding when I was 9yo and contribute to [Apollo GraphQL](https://github.com/apollographql/apollo-client) and [GraphQL Gem](https://github.com/rmosolgo/graphql-ruby)
 
