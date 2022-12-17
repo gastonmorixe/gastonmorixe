@@ -9,7 +9,7 @@
 
 - 🔭 My side-project is [Goose](https://gooseup.me/gaston)
 
-- 👨‍💻 All of my projects are available at [theportfolio.gastonmorixe.com](https://theportfolio.gastonmorixe.com)
+- 👨‍💻 My ~~outdated~~ portfolio is [theportfolio.gastonmorixe.com](https://theportfolio.gastonmorixe.com)
 
 - 📝 I regularly write articles on [gooseup.me/gaston](https://gooseup.me/gaston)
 
