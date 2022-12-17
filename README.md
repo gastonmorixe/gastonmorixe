@@ -5,7 +5,7 @@
 
 - 👾 Started coding when I was 9yo
 
-- 🌱 I’m currently learning **Physics Engines, AI & ML**
+- 🌱 I’m currently learning about **Physics Engines, AI & ML**
 
 - 🔭 My side-project is [Goose](https://gooseup.me/gaston)
 
