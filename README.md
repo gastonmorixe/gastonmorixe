@@ -1,5 +1,5 @@
-<h1 align="center">Hi 🙋🏻‍♂️ I'm Gastón</h1>
-<h3 align="center">UI Engineer 🎨 former classical pianist 🎹 & runner 🏃</h3>
+### Hi 🙋🏻‍♂️ I'm Gastón
+#### UI Engineer 🎨 former classical pianist 🎹 & runner 🏃
 
 - 👨🏻‍💻 I work at [ClientCircle](https://www.clientcircle.com)
 
