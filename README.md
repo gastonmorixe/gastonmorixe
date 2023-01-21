@@ -11,7 +11,7 @@
 
 - 💞 My fav frameworks are **[SolidJS](https://github.com/solidjs/solid)**, **[NestJS](https://github.com/nestjs/nest)** & **React Native**
 
-- ❤️ My first love was **Rails** 💎, **Obj-C** & later on **Swift**
+- ❤️ My first love was **Rails** 💎 and later on **Obj-C** & **Swift**
 
 - 🌱 I’m currently learning about **Physics Engines, AI & ML** (transformers architecture & attention)
 
