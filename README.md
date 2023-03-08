@@ -13,7 +13,7 @@
 
 - ❤️ My first love was **Rails** 💎 and later on **Obj-C** & **Swift**
 
-- 🌱 I’m currently learning about **Physics Engines, AI & ML** (transformers architecture & attention)
+- 🌱 I’m currently learning about **Physics Engines, AI & ML** (LLMs, CV, transformer architecture & attention)
 
 - 🔭 My side-project is [Goose](https://gooseup.me/gaston)
 
