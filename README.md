@@ -1,7 +1,7 @@
 ### Hi 🙋🏻‍♂️ I'm Gastón
 #### UI Engineer 🎨 former classical pianist 🎹 & runner 🏃
 
-- 🌎 All my info & links are either here or at [gastonmorixe.com](https://gastonomrixe.com)
+- 🌎 All my info & links are either here or at [gastonmorixe.com](https://gastonmorixe.com)
 
 - 👨🏻‍💻 I work at [ClientCircle](https://www.clientcircle.com) in 🇺🇸 (formely Rocket Referrals)
 
