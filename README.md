@@ -1,17 +1,19 @@
 ### Hi 🙋🏻‍♂️ I'm Gastón
 #### UI Engineer 🎨 former classical pianist 🎹 & runner 🏃
 
-- 👨🏻‍💻 I work at [ClientCircle](https://www.clientcircle.com) in 🇺🇸
+- 🌎 All my info & links are either here or at [gastonmorixe.com](https://gastonomrixe.com)
 
-- 🏡 I was born in 🇺🇾 and raised in 🇪🇸
+- 👨🏻‍💻 I work at [ClientCircle](https://www.clientcircle.com) in 🇺🇸 (formely Rocket Referrals)
+
+- 🏡 I was born in 🇺🇾 and raised in 🇪🇸 
 
 - 👾 Started coding when I was 9yo. Occasional contributor of [Apollo GraphQL](https://github.com/apollographql/apollo-client), [GraphQL Gem](https://github.com/rmosolgo/graphql-ruby) and authored [RN Twilio Video WebRTC](https://github.com/blackuy/react-native-twilio-video-webrtc)
 
-- 💖 My fav languages as of 2023 are **TypeScript** & **Ruby**
+- 💖 My fav languages as of 2023 are **TypeScript** & **Ruby** (python is growing on me, blame ai)
 
 - 💞 My fav frameworks are **[SolidJS](https://github.com/solidjs/solid)**, **[NestJS](https://github.com/nestjs/nest)** & **React Native**
 
-- ❤️ My first love was **Rails** 💎 and later on **Obj-C** & **Swift**
+- ❤️ My first nerd love was **Rails** 💎 and later on **Obj-C** & **Swift**
 
 - 🌱 I’m currently learning about **Physics Engines, AI & ML** (LLMs, CV, transformer architecture & attention)
 
@@ -21,11 +23,11 @@
 
 - 📝 I regularly write articles on [gooseup.me/gaston](https://gooseup.me/gaston)
 
-- 💬 Ask me about **UI Engineering 💅🏻 & Working Remotely 🗺️** 
+- 💬 Ask me about **UI Engineering 💅🏻,  Working Remotely 🗺️** & classical music
 
 - 📫 You can reach me at **gaston@gastonmorixe.com**
 
-- 📜 Read about my experience [linkedin.com/in/gastonmorixe](https://linkedin.com/in/gastonmorixe)
+- 📜 Read about my experience [linkedin.com/in/gastonmorixe](https://linkedin.com/in/gastonmorixe) (please don't ask me for a CV, really? it's 2023)
 
 - ⚡ My Dream is to someday play **Rachmaninoff's Piano Concerto No. 3**
 
