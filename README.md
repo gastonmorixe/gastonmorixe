@@ -15,7 +15,7 @@
 
 - ❤️ My first nerd love was **Rails** 💎 and later on **Obj-C** & **Swift**
 
-- 🌱 I’m currently learning about **Physics Engines, AI & ML** (LLMs, CV, transformer architecture & attention)
+- 🌱 I’m currently learning about **Physics Engines, AI & ML** (LLMs, CV, transformer architecture & attention, thank to the genius of [Andrej Karpathy](https://www.youtube.com/watch?v=kCc8FmEb1nY)  and [3blue1brown](https://www.youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi))
 
 - 🔭 My side-project is [Goose](https://gooseup.me/gaston)
 
@@ -30,6 +30,8 @@
 - 📜 Read about my experience [linkedin.com/in/gastonmorixe](https://linkedin.com/in/gastonmorixe) (please don't ask me for a CV, really? it's 2023)
 
 - ⚡ My Dream is to someday play **Rachmaninoff's Piano Concerto No. 3**
+
+- 🍎 Apple and 🚗 Tesla are the companies I admire the most. 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
