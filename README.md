@@ -7,7 +7,7 @@
 
 - 🏡 I was born in 🇺🇾 and raised in 🇪🇸 
 
-- 👾 Started coding when I was 9yo in primary school in Spain. Occasional contributor of [Apollo GraphQL](https://github.com/apollographql/apollo-client), [GraphQL Gem](https://github.com/rmosolgo/graphql-ruby) and authored [RN Twilio Video WebRTC](https://github.com/blackuy/react-native-twilio-video-webrtc)
+- 👾 Started coding when I was 9yo in elementary school in Spain. Occasional contributor of [Apollo GraphQL](https://github.com/apollographql/apollo-client), [GraphQL Gem](https://github.com/rmosolgo/graphql-ruby) and authored [RN Twilio Video WebRTC](https://github.com/blackuy/react-native-twilio-video-webrtc)
 
 - 💖 My fav languages as of 2023 are **TypeScript** & **Ruby** (python is growing on me, blame ai)
 
@@ -23,7 +23,7 @@
 
 - 📝 I regularly write articles on [gooseup.me/gaston](https://gooseup.me/gaston)
 
-- 💬 Ask me about **UI Engineering 💅🏻,  Working Remotely 🗺️** & classical music
+- 💬 Ask me about **UI Engineering 💅🏻,  Working Remotely 🗺️** (I travel a lot) & classical music
 
 - 📫 You can reach me at **gaston@gastonmorixe.com**
 
