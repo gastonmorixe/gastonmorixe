@@ -27,7 +27,7 @@
 
 - 📜 Read about my experience [linkedin.com/in/gastonmorixe](https://linkedin.com/in/gastonmorixe) (please don't ask me for a CV, really? it's 2023)
 
-- 🍎 Apple and 🚗 Tesla are the companies I admire the most. 
+- 🍎 Apple and 🚗 Tesla are the companies I admire the most. (2023 update: + [OpenAI](https://gooseup.me/gaston/p/74egxnzy))
 
 - 📫 You can reach me at **gaston@gastonmorixe.com**
 
