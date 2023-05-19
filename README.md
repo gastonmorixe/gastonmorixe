@@ -25,13 +25,13 @@
 
 - 💬 Ask me about **UI Engineering 💅🏻,  Working Remotely 🗺️** (I travel a lot) & classical music
 
-- 📫 You can reach me at **gaston@gastonmorixe.com**
-
 - 📜 Read about my experience [linkedin.com/in/gastonmorixe](https://linkedin.com/in/gastonmorixe) (please don't ask me for a CV, really? it's 2023)
 
-- ⚡ My Dream is to someday play **Rachmaninoff's Piano Concerto No. 3**
-
 - 🍎 Apple and 🚗 Tesla are the companies I admire the most. 
+
+- 📫 You can reach me at **gaston@gastonmorixe.com**
+
+- ⚡ My dream is to someday play **Rachmaninoff's Piano Concerto No. 3**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
