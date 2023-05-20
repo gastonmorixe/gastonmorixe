@@ -3,7 +3,7 @@
 
 - 🌎 All my info & links are either here or at [gastonmorixe.com](https://gastonmorixe.com)
 
-- 👨🏻‍💻 I am a Senior Software Engineer at [ClientCircle](https://www.clientcircle.com) in 🇺🇸 (formely Rocket Referrals).
+- 👨🏻‍💻 I work as Senior Software Engineer at [ClientCircle](https://www.clientcircle.com) in 🇺🇸 (formely Rocket Referrals).
 
 - 🏡 I was born in 🇺🇾 and raised in 🇪🇸 
 
