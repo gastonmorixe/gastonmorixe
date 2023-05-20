@@ -23,7 +23,7 @@
 
 - 📝 I regularly write articles on [gooseup.me/gaston](https://gooseup.me/gaston)
 
-- 💬 Ask me about **UI Engineering 💅🏻,  Working Remotely 🗺️** (I travel a lot) & classical music
+- 💬 Ask me about **UI Engineering 💅🏻,  Working Remotely 🗺️** & classical music
 
 - 📜 Read about my experience [linkedin.com/in/gastonmorixe](https://linkedin.com/in/gastonmorixe) (please don't ask me for a CV, really? it's 2023)
 
