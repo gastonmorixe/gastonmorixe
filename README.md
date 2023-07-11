@@ -3,7 +3,7 @@
 
 - 🌐 Find all my info & links here or at [gastonmorixe.com](https://gastonmorixe.com)
 
-- 💼 Currently working as a Senior Software Engineer at [ClientCircle](https://www.clientcircle.com), USA (formerly Rocket Referrals).
+- 💼 Currently working as a Senior Software Engineer at [ClientCircle](https://www.clientcircle.com) 🇺🇸 (formerly Rocket Referrals).
 
 - 🌍 Born in Uruguay, raised in Spain.
 
