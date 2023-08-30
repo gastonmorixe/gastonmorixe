@@ -27,13 +27,13 @@
 
 - 💡 Ask me about **UI Engineering**, Product Engineering & classical music
 
-- 📚 Learn about my experience on [linkedin.com/in/gastonmorixe](https://linkedin.com/in/gastonmorixe) (CVs are so 2022).
+- 📚 Learn about my experience on [linkedin.com/in/gastonmorixe](https://linkedin.com/in/gastonmorixe)
 
 - 🏢 Companies I admire: 🍎 Apple, 🚗 Tesla, and (2023 update) ⏺ [OpenAI](https://gooseup.me/gaston/p/74egxnzy) & 🤗 [huggingface](https://huggingface.co/)
 
-- 📧 Reach me at **gaston@gastonmorixe.com**.
+- 📧 Reach me at **gaston@gastonmorixe.com**
 
-- 🎹 Dream: To play **Rachmaninoff's Piano Concerto No. 3** (someday).
+- 🎹 Dream: To play **Rachmaninoff's Piano Concerto No. 3** (someday)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
