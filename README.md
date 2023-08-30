@@ -29,7 +29,7 @@
 
 - 📚 Learn about my experience on [linkedin.com/in/gastonmorixe](https://linkedin.com/in/gastonmorixe) (CVs are so 2022).
 
-- 🏢 Companies I admire: 🍎 Apple, 🚗 Tesla, and (2023 update) [OpenAI](https://gooseup.me/gaston/p/74egxnzy).
+- 🏢 Companies I admire: 🍎 Apple, 🚗 Tesla, and (2023 update) ⏺ [OpenAI](https://gooseup.me/gaston/p/74egxnzy) & 🤗 [huggingface](https://huggingface.co/)
 
 - 📧 Reach me at **gaston@gastonmorixe.com**.
 
