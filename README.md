@@ -9,7 +9,7 @@
 
 - 💼 Working as a Senior Software Engineer at [ClientCircle](https://www.clientcircle.com) 🇺🇸 (formerly Rocket Referrals)
 
-- 💻 Began coding at 9 years old
+- 💻 Started coding at 9 years old
 
 - 📚 Favorite languages as of 2023 are **TypeScript** & **Ruby** (Python is growing on me, thanks to AI)
 
