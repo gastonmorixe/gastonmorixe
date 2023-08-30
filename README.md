@@ -3,7 +3,7 @@
 
 - 🌐 Find all my info & links here or at [gastonmorixe.com](https://gastonmorixe.com)
 
-- 📦 Author of 💎 [rails-fields](https://rails-fields.dev) gem and 🎬[RN Twilio Video WebRTC](https://github.com/blackuy/react-native-twilio-video-webrtc)
+- 📦 Author of 💎 [rails-fields](https://rails-fields.dev) gem and 🎬 [RN Twilio Video WebRTC](https://github.com/blackuy/react-native-twilio-video-webrtc)
 
 - 🤓 Contributor of [Apollo GraphQL](https://github.com/apollographql/apollo-client) and [GraphQL Gem](https://github.com/rmosolgo/graphql-ruby)
 
