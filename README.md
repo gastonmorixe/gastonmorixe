@@ -3,27 +3,29 @@
 
 - 🌐 Find all my info & links here or at [gastonmorixe.com](https://gastonmorixe.com)
 
-- 💼 Currently working as a Senior Software Engineer at [ClientCircle](https://www.clientcircle.com) 🇺🇸 (formerly Rocket Referrals).
+- 📦 Author of 💎 [rails-fields](https://rails-fields.dev) gem and 🎬[RN Twilio Video WebRTC](https://github.com/blackuy/react-native-twilio-video-webrtc)
 
-- 🌍 Born in Uruguay, raised in Spain.
+- 🤓 Contributor of [Apollo GraphQL](https://github.com/apollographql/apollo-client) and [GraphQL Gem](https://github.com/rmosolgo/graphql-ruby)
 
-- 💻 Began coding at 9 years old in Spain. Contributed to [Apollo GraphQL](https://github.com/apollographql/apollo-client), [GraphQL Gem](https://github.com/rmosolgo/graphql-ruby) and authored [RN Twilio Video WebRTC](https://github.com/blackuy/react-native-twilio-video-webrtc).
+- 💼 Working as a Senior Software Engineer at [ClientCircle](https://www.clientcircle.com) 🇺🇸 (formerly Rocket Referrals)
 
-- 📚 Favorite languages in 2023: **TypeScript** & **Ruby** (Python is growing on me, thanks to AI).
+- 💻 Began coding at 9 years old
 
-- 🛠️ Preferred frameworks: **[SolidJS](https://github.com/solidjs/solid)**, **[NestJS](https://github.com/nestjs/nest)** & **React Native**.
+- 📚 Favorite languages as of 2023 are **TypeScript** & **Ruby** (Python is growing on me, thanks to AI)
 
-- 💡 First tech love: **Rails** 💎. Later, C/Cpp, **Obj-C** & **Swift**.
+- 🛠️ Preferred frameworks **[SolidJS](https://github.com/solidjs/solid)**, **[NestJS](https://github.com/nestjs/nest)** & **React Native**
 
-- 🎓 Currently learning about **Physics Engines, AI & ML** (LLMs, CV, transformer architecture & attention, inspired by [Andrej Karpathy](https://www.youtube.com/watch?v=kCc8FmEb1nY) and [3blue1brown](https://www.youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi)).
+- ♥️ Love for **[Rails](https://github.com/rails/rails)**. Later on, C/Cpp, **Obj-C** & **Swift**
 
-- 🚀 Side-project: [Goose](https://gooseup.me/gaston).
+- 🎓 Currently learning about **Physics Engines, AI & ML** (LLMs, CV, transformer architecture & attention, inspired by [Andrej Karpathy](https://www.youtube.com/watch?v=kCc8FmEb1nY) and [3blue1brown](https://www.youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi))
 
-- 🎨 Portfolio: [theportfolio.gastonmorixe.com](https://theportfolio.gastonmorixe.com).
+- 🚀 Side-project: [Goose](https://gooseup.me/gaston)
 
-- 🖋️ Regularly write articles on [gooseup.me/gaston](https://gooseup.me/gaston).
+- 🎨 Portfolio: [theportfolio.gastonmorixe.com](https://theportfolio.gastonmorixe.com)
 
-- 💡 Ask me about **UI Engineering**, Product Engineering & classical music.
+- 🖋️ Regularly write articles on [gooseup.me/gaston](https://gooseup.me/gaston)
+
+- 💡 Ask me about **UI Engineering**, Product Engineering & classical music
 
 - 📚 Learn about my experience on [linkedin.com/in/gastonmorixe](https://linkedin.com/in/gastonmorixe) (CVs are so 2022).
 
@@ -31,7 +33,7 @@
 
 - 📧 Reach me at **gaston@gastonmorixe.com**.
 
-- 🎹 Dream: To play **Rachmaninoff's Piano Concerto No. 3** someday.
+- 🎹 Dream: To play **Rachmaninoff's Piano Concerto No. 3** (someday).
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
