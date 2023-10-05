@@ -1,5 +1,8 @@
-## Hello, I'm Gastón 👋
-### Senior Software Engineer 
+<div style="width: 100%;">
+  <img src="hello.svg?v=5" style="max-width: 400px;" alt="Gaston Morixe - Software Engineer">
+</div>
+
+**Senior Software Engineer**
 
 - 🌐 Find all my info & links here or at [gastonmorixe.com](https://gastonmorixe.com)
 
