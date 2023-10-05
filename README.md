@@ -1,5 +1,5 @@
 ## Hello, I'm Gastón 👋
-### Senior Software UI Engineer 
+### Senior Software Engineer 
 
 - 🌐 Find all my info & links here or at [gastonmorixe.com](https://gastonmorixe.com)
 
