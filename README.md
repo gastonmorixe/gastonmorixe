@@ -10,6 +10,12 @@
 
 - 🤓 Contributor of [Apollo GraphQL](https://github.com/apollographql/apollo-client) and [GraphQL Gem](https://github.com/rmosolgo/graphql-ruby)
 
+- 🎨 Portfolio: [theportfolio.gastonmorixe.com](https://theportfolio.gastonmorixe.com)
+
+- 📚 Learn about my experience on [linkedin.com/in/gastonmorixe](https://linkedin.com/in/gastonmorixe)
+
+- 📧 Reach me at **gaston@gastonmorixe.com**
+
 - 💻 Started coding at 9 years old
 
 - 📚 Favorite languages as of 2023 are **TypeScript** & **Ruby** (Python is growing on me, thanks to AI)
@@ -22,17 +28,11 @@
 
 - 🚀 Side-project: [Goose](https://gooseup.me/gaston)
 
-- 🎨 Portfolio: [theportfolio.gastonmorixe.com](https://theportfolio.gastonmorixe.com)
-
 - 🖋️ Regularly write articles on [gooseup.me/gaston](https://gooseup.me/gaston)
 
 - 💡 Ask me about **UI Engineering**, Product Engineering & classical music
 
-- 📚 Learn about my experience on [linkedin.com/in/gastonmorixe](https://linkedin.com/in/gastonmorixe)
-
 - 🏢 Companies I admire: 🍎 Apple, 🚗 Tesla, and (2023 update) ⏺ [OpenAI](https://gooseup.me/gaston/p/74egxnzy) & 🤗 [huggingface](https://huggingface.co/)
-
-- 📧 Reach me at **gaston@gastonmorixe.com**
 
 - 🎹 Dream: To play **Rachmaninoff's Piano Concerto No. 3** (someday)
 
