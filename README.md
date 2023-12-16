@@ -16,7 +16,7 @@
 
 - 📧 Reach me at **gaston@gastonmorixe.com**
 
-- 💻 Started coding at 9 years old
+- 💻 Started coding when I was 9 years old
 
 - 📚 Favorite languages as of 2023 are **TypeScript** & **Ruby** (Python is growing on me, thanks to AI)
 
