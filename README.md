@@ -6,7 +6,7 @@
 
 - 👨🏻‍💻 Engineer @ [ClientCircle by RocketRefferals](https://www.clientcircle.com)
 
-- 🌐 Find all my info & links here or at [gastonmorixe.com](https://gastonmorixe.com)
+- 🌐 Find my info & links here or at [gastonmorixe.com](https://gastonmorixe.com)
 
 - 📦 Author of 💎 [rails-fields](https://rails-fields.dev) gem and 🎬 [RN Twilio Video WebRTC](https://github.com/blackuy/react-native-twilio-video-webrtc)
 
