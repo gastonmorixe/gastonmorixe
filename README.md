@@ -12,7 +12,7 @@
 
 - 🤓 Contributor of [Apollo GraphQL](https://github.com/apollographql/apollo-client) and [GraphQL Gem](https://github.com/rmosolgo/graphql-ruby)
 
-- 🎨 Portfolio: [theportfolio.gastonmorixe.com](https://theportfolio.gastonmorixe.com)
+- 🎨 Portfolio [theportfolio.gastonmorixe.com](https://theportfolio.gastonmorixe.com)
 
 - 📚 Learn about my experience on [linkedin.com/in/gastonmorixe](https://linkedin.com/in/gastonmorixe)
 
@@ -20,13 +20,13 @@
 
 - 💻 Started coding when I was 9 years old
 
-- 📚 Favorite languages as of 2023 are **TypeScript** & **Ruby** (Python is growing on me, thanks to AI)
+- 📚 Favorite languages as of 2023 are **TypeScript** & **Ruby**, C/C++. *Python is growing on me, thanks to AI.*
 
 - 🛠️ Preferred frameworks **[SolidJS](https://github.com/solidjs/solid)**, **[NestJS](https://github.com/nestjs/nest)** & **React Native**
 
-- ♥️ Love for **[Ruby on Rails](https://github.com/rails/rails)**. Later on, C/Cpp, **Obj-C** & **Swift**
+- ♥️ Love for **[Ruby on Rails](https://github.com/rails/rails)**. C/Cpp, **Obj-C** & **Swift**
 
-- 🎓 Currently learning about **Physics Engines, AI & ML** (LLMs, CV, transformer architecture & attention, inspired by [Andrej Karpathy](https://www.youtube.com/watch?v=kCc8FmEb1nY) and [3blue1brown](https://www.youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi))
+- 🎓 Currently learning about **Physics Engines, AI & ML** (LLMs, CV, transformer architecture & self-attention, inspired by [Andrej Karpathy](https://www.youtube.com/watch?v=kCc8FmEb1nY) and [3blue1brown](https://www.youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi))
 
 - 🚀 Side-project: [Goose](https://gooseup.me/gaston)
 
@@ -34,9 +34,9 @@
 
 - 💡 Ask me about **UI Engineering**, Product Engineering & classical music
 
-- 🏢 Companies I admire: 🍎 Apple, 🚗 Tesla, and (2023 update) ⏺ [OpenAI](https://gooseup.me/gaston/p/74egxnzy) & 🤗 [huggingface](https://huggingface.co/)
+- 🏢 Companies I admire: 🍎 Apple, 🚗 Tesla, ⏺ [OpenAI](https://gooseup.me/gaston/p/74egxnzy) & 🤗 [huggingface](https://huggingface.co/)
 
-- 🎹 Dream: To play **Rachmaninoff's Piano Concerto No. 3** (someday)
+- 🎹 Bucket List: To play **Rachmaninoff's Piano Concerto No. 3** 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
