@@ -4,7 +4,7 @@
 
 **Senior Software Engineer**
 
-- 👨🏻‍💻 Engineer @ [ClientCircle by RocketRefferals](https://www.clientcircle.com)
+- 👨🏻‍💻 Engineer @ [ClientCircle by Rocket Referrals](https://www.clientcircle.com)
 
 - 🌐 Find my info & links here or at [gastonmorixe.com](https://gastonmorixe.com)
 
