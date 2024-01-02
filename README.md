@@ -1,8 +1,8 @@
 <div style="width: 100%;">
-  <img src="hello.svg?v=5" style="max-width: 400px;" alt="Gaston Morixe - Software Engineer">
+  <img src="hello.svg?v=5" style="max-width: 400px;" alt="Gaston Morixe - Software Engineer UI AI Researcher">
 </div>
 
-**Senior Software Engineer**
+**Senior Software & UI Engineer**
 
 - 👨🏻‍💻 Senior Software Engineer @ [ClientCircle by Rocket Referrals](https://www.clientcircle.com)
 
