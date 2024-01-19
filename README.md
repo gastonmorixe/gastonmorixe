@@ -1,5 +1,3 @@
-## Gaston Morixe
-
 **Senior Software & UI Engineer**
 
 - 👨🏻‍💻 Senior Software Engineer @ [ClientCircle by Rocket Referrals](https://www.clientcircle.com)
