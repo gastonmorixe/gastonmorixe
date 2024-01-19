@@ -1,5 +1,5 @@
 <div style="width: 100%;">
-  <img src="hello.svg?v=5" style="max-width: 400px;" alt="Gaston Morixe - Software Engineer UI AI Researcher">
+  <img src="hello.svg?v=5" style="max-width: 1px;" alt="Gaston Morixe - Software Engineer UI AI Researcher">
 </div>
 
 **Senior Software & UI Engineer**
