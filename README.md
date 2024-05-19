@@ -2,7 +2,7 @@
 
 - 👨🏻‍💻 Senior Software Engineer @ [ClientCircle by Rocket Referrals](https://www.clientcircle.com)
 
-- 🌍 Ppersonal site [gastonmorixe.com](https://gastonmorixe.com)
+- 🌍 Personal site [gastonmorixe.com](https://gastonmorixe.com)
 
 - 📦 Author of 💎 [rails-fields](https://rails-fields.dev) gem and 🎬 [RN Twilio Video WebRTC](https://github.com/blackuy/react-native-twilio-video-webrtc)
 
