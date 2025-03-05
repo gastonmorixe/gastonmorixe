@@ -8,21 +8,19 @@
 
 - 🤓 Contributor of [Apollo GraphQL](https://github.com/apollographql/apollo-client) and [GraphQL Gem](https://github.com/rmosolgo/graphql-ruby)
 
-- 🎨 Portfolio [theportfolio.gastonmorixe.com](https://theportfolio.gastonmorixe.com)
-
 - 📚 My experience [linkedin.com/in/gastonmorixe](https://linkedin.com/in/gastonmorixe)
 
 - 📧 Reach me at **gaston@gastonmorixe.com**
 
-- 📚 Favorite languages: Ruby, Python, TypeScript, Swift, C/C++
+- 📚 Favorite languages: Ruby, TypeScript / JS, Swift, C/C++, Python, (Rust and Go in progress)
 
-- ♥️ Love for **[Ruby on Rails](https://github.com/rails/rails)**
+- 💻 IDE: [NeoVim](https://neovim.io) and [Cursor](https://www.cursor.com/en/)
 
-- 🛠️ Preferred frameworks: React, React Native, **[SolidJS](https://github.com/solidjs/solid)**, **[NestJS](https://github.com/nestjs/nest)**
+- 🔮 Preferred frameworks: React, React Native, SwiftUI, **[SolidJS](https://github.com/solidjs/solid)**, **[NestJS](https://github.com/nestjs/nest)**, **[Ruby on Rails](https://github.com/rails/rails)** 
 
 - 🎓 Interested in **Physics Engines, AI & ML** (LLMs, CV, transformer architecture & self-attention, inspired by [Andrej Karpathy](https://www.youtube.com/watch?v=kCc8FmEb1nY) and [3blue1brown](https://www.youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi))
 
-- 🚀 Side-project: [Goose](https://gooseup.me/gaston)
+- 🚀 Side-project: [Goose](https://gooseup.me/gaston), LightHouse, LEDSport
 
 
 <p align="left">
