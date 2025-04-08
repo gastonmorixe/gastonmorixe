@@ -1,8 +1,8 @@
 **Senior Software & UI Engineer**
 
-- I use [VIM](https://www.lazyvim.org)
-
 - 👨🏻‍💻 Senior Software Engineer @ [ClientCircle by Rocket Referrals](https://www.clientcircle.com)
+
+- 💻 I use [NeoVim](https://www.lazyvim.org) 
 
 - 🌍 Personal site [gastonmorixe.com](https://gastonmorixe.com)
 
@@ -15,8 +15,6 @@
 - 📧 Reach me at **gaston@gastonmorixe.com**
 
 - 📚 Favorite languages: Ruby, TypeScript / JS, Swift, C/C++, Python, (Rust and Go in progress)
-
-- 💻 IDE: [NeoVim](https://neovim.io) and [Cursor](https://www.cursor.com/en/)
 
 - 🔮 Preferred frameworks: React, React Native, SwiftUI, **[SolidJS](https://github.com/solidjs/solid)**, **[NestJS](https://github.com/nestjs/nest)**, **[Ruby on Rails](https://github.com/rails/rails)** 
 
