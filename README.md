@@ -1,5 +1,7 @@
 **Senior Software & UI Engineer**
 
+- I use [VIM](https://www.lazyvim.org)
+
 - 👨🏻‍💻 Senior Software Engineer @ [ClientCircle by Rocket Referrals](https://www.clientcircle.com)
 
 - 🌍 Personal site [gastonmorixe.com](https://gastonmorixe.com)
