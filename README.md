@@ -1,8 +1,4 @@
-**Senior Software & UI Engineer**
-
-- 👨🏻‍💻 Senior Software Engineer @ [ClientCircle by Rocket Referrals](https://www.clientcircle.com)
-
-- 💻 I use [NeoVim](https://www.lazyvim.org) 
+**Saff Software & Product Engineer**
 
 - 🌍 Personal site [gastonmorixe.com](https://gastonmorixe.com)
 
@@ -14,13 +10,15 @@
 
 - 📧 Reach me at **gaston@gastonmorixe.com**
 
-- 📚 Favorite languages: Ruby, TypeScript / JS, Swift, C/C++, Python, (Rust and Go in progress)
+- 💻 I use [NeoVim](https://www.lazyvim.org) 
 
-- 🔮 Preferred frameworks: **[Ruby on Rails](https://github.com/rails/rails)**, React, React Native, SwiftUI, **[SolidJS](https://github.com/solidjs/solid)**, **[NestJS](https://github.com/nestjs/nest)**
+- 📚 Favorite languages: Ruby, TypeScript / JS, Swift, C/C++, (Rust and Go in progress)
+
+- 🔮 Preferred frameworks: React, React Native, SwiftUI, **[Ruby on Rails](https://github.com/rails/rails)**, **[SolidJS](https://github.com/solidjs/solid)**, **[NestJS](https://github.com/nestjs/nest)**
 
 - 🎓 Interested in **Physics Engines, AI & ML** (LLMs, CV, transformer architecture & self-attention, inspired by [Andrej Karpathy](https://www.youtube.com/watch?v=kCc8FmEb1nY) and [3blue1brown](https://www.youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi))
 
-- 🚀 Side-project: [Goose](https://gooseup.me/gaston), LightHouse, LEDSport
+- 🚀 Side-project: AI House, [Goose](https://gooseup.me/gaston), LightHouse, LEDSport
 
 
 <p align="left">
