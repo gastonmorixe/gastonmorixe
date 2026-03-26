@@ -2,6 +2,8 @@
 
 ⛵ [ferry](https://github.com/gastonmorixe/ferry) — Self-hosted PaaS. Deploy apps to your own server, fast and free. Dokku + Cloudflare Tunnel.
 
+🖥️ [macback](https://github.com/gastonmorixe/macback) — Interactive macOS backup and restore CLI. Modular components, rclone-powered, smart defaults.
+
 💎 [rails-fields](https://github.com/gastonmorixe/rails-fields) — Declarative fields for Rails. Automatic migrations and GraphQL types.
 
 📡 [lib-artnet-4-cpp](https://github.com/gastonmorixe/lib-artnet-4-cpp) — ArtNet 4 protocol library in C++. Modern lighting DMX.
