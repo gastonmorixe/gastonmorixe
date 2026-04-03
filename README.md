@@ -1,5 +1,7 @@
 # Gaston Morixe
 
+🚀 [nvim-12-config](https://github.com/gastonmorixe/nvim-12-config) — Zero-framework, minimalist Neovim 0.12 configuration using native vim.pack and LSP APIs.
+
 ⛵ [ferry](https://github.com/gastonmorixe/ferry) — Self-hosted PaaS. Deploy apps to your own server, fast and free. Dokku + Cloudflare Tunnel.
 
 💾 [macback](https://github.com/gastonmorixe/macback) — Interactive macOS backup and restore CLI. Modular components, rclone-powered, smart defaults.
