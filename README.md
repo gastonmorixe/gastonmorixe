@@ -1,5 +1,9 @@
 # Gaston Morixe
 
+📱 [apple-development-official-skill](https://github.com/gastonmorixe/apple-development-official-skill)  AI SKILL based on XCode build-in prompts.
+
+📝 [skills](https://github.com/gastonmorixe/skills) — My agentic SKILLs collection (Apple, source-code, UI & Product Engineering, rev-engineering, etc).
+
 🚀 [nvim-12-config](https://github.com/gastonmorixe/nvim-12-config) — Zero-framework, minimalist Neovim 0.12 configuration using native vim.pack and LSP APIs.
 
 ⛵ [ferry](https://github.com/gastonmorixe/ferry) — Self-hosted PaaS. Deploy apps to your own server, fast and free. Dokku + Cloudflare Tunnel.
