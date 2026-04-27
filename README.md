@@ -1,6 +1,6 @@
 # Gaston Morixe
 
-🌊 [mdstream](https://github.com/gastonmorixe/mdstream) Markdown renderer. Real-time byte-by-byte. For TUIs, in Rust. 
+🌊 [mdstream](https://github.com/gastonmorixe/mdstream) — Markdown renderer. Real-time byte-by-byte. For TUIs, in Rust. 
 
 📱 [apple-development-official-skill](https://github.com/gastonmorixe/apple-development-official-skill) — SKILL based on XCode build-in prompts.
 
