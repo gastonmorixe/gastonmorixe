@@ -6,6 +6,8 @@
 
 📝 [skills](https://github.com/gastonmorixe/skills) — My agentic SKILLs collection (Apple, source-code, UI & Product Engineering, rev-engineering, etc).
 
+🛜 [net-log](https://github.com/gastonmorixe/net-log) — Runtime Network Inspector for Node and Bun (FETCH, HTTP / HTTP2, WS, TLS, UNDICI, STREAM SSE / CHUNKS, etc.)
+
 🚀 [nvim-12-config](https://github.com/gastonmorixe/nvim-12-config) — Zero-framework, minimalist Neovim 0.12 configuration using native vim.pack and LSP APIs.
 
 ⛵ [ferry](https://github.com/gastonmorixe/ferry) — Self-hosted PaaS. Deploy apps to your own server, fast and free. Dokku + Cloudflare Tunnel.
