@@ -1,5 +1,7 @@
 # Gaston Morixe
 
+🌊 Markdown renderer. Real-time byte-by-byte. For TUIs, in Rust. 
+
 📱 [apple-development-official-skill](https://github.com/gastonmorixe/apple-development-official-skill) — SKILL based on XCode build-in prompts.
 
 📝 [skills](https://github.com/gastonmorixe/skills) — My agentic SKILLs collection (Apple, source-code, UI & Product Engineering, rev-engineering, etc).
