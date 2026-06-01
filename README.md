@@ -1,5 +1,7 @@
 # Gaston Morixe
 
+🍿 [GMApplePlayer](https://github.com/gastonmorixe/GMApplePlayer) — Native AVKit MKV player for macOS, iOS & tvOS
+
 🎬 [OpenTeleprompter](https://github.com/gastonmorixe/openteleprompter) — Calm, premium browser teleprompter. Local-first. No signup.
 
 🌊 [mdstream](https://github.com/gastonmorixe/mdstream) — Markdown renderer. Real-time byte-by-byte. For TUIs, in Rust. 
