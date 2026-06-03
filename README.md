@@ -1,6 +1,6 @@
 # Gaston Morixe
 
-🍿 [GMApplePlayer](https://github.com/gastonmorixe/GMApplePlayer) — Native MKV Video player for Apple macOS, iOS & tvOS
+🍿 [GMPlayer](https://github.com/gastonmorixe/GMPlayer) — Native MKV Video player for Apple macOS, iOS & tvOS
 
 🎬 [OpenTeleprompter](https://github.com/gastonmorixe/openteleprompter) — Calm, premium browser teleprompter. Local-first. No signup.
 
